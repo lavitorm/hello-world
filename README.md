@@ -1,2 +1,2 @@
 # hello-world
-boilerplate 
+Boilerplate. Testing files and commands.
